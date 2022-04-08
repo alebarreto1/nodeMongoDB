@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
-
-mongoose.connect("mongodb+srv://alura:5jnCC3@alura.f1asf.mongodb.net/alura-node");
+//connect with your database password and description:
+mongoose.connect("mongodb+srv://alura:<password>@alura.f1asf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority");
 
 let db = mongoose.connection;
 
