@@ -1,4 +1,4 @@
-## NODE.JS: API REST COM EXPRESS E MONGODB
+## NODE.JS: REST API WITH EXPRESS AND MONGODB
 
 
 Completing this @Alura course allowed me to create a REST API to register books and authors, using good programming practices.
